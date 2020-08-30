@@ -11,9 +11,10 @@ Sources for scraping:
 ## Hour 1
 
 **Libraries/Tools**
--- Cheerio.js (like jQuery on the server-side)
--- jsdom
--- Puppeteer (just a discussion vs. the other two)
--- Undocumented APIs(discussion)
-NOTE: If you find yourself using Puppeteer you may
-want to use the Undocumented API solution.
+
+- Cheerio.js (like jQuery on the server-side)
+- jsdom
+- Puppeteer (just a discussion vs. the other two)
+- Undocumented APIs(discussion)
+  NOTE: If you find yourself using Puppeteer you may
+  want to use the Undocumented API solution.
